@@ -1,0 +1,1 @@
+Independently developed an interactive Pepper robot system for my TU Delft bachelor thesis, integrating speech recognition, large language models, and dynamic conversation logic to investigate human–robot collaboration during creative brainstorming.
